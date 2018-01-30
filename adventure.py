@@ -12,6 +12,7 @@ elif scenario1 == 'no':
     print('However, the man has opened the door and is about to hit you')
     scenario2 = input('Do you shoot him? ')
     if scenario2 == 'yes':
-        print('He dies and you live happily ever after')
+        print('He gets shot and dies and you live happily ever after')
+        print('The End')
     elif scenario2 == 'no':
         print('He hits you and you die')
