@@ -13,7 +13,7 @@ if num==1:
 elif num==2:
     print('My grandmother can run faster you')
 elif num==3:
-    print('You are dumb')
+    print('You are as sharp as a marble')
 elif num==4:
     print('Get good')
 elif num==5:
