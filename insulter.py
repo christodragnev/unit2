@@ -18,6 +18,7 @@ elif num==4:
     print('Get good')
 elif num==5:
     print('You are the opposite of cool')
-    
+else:
+    print('Bad input')
 
 
