@@ -16,5 +16,7 @@ if date.today().month == month and date.today().day == day:
     print('You turn ', 2018-year, ' years old today. Happy birthday!!')
 elif month>date.today().month:
     print('You are ', 2017-year, 'years old')
+elif day>date.today().day:
+    print('
 else:
     print('You are ', 2018-year, 'years old')
