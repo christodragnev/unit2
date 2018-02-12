@@ -9,5 +9,6 @@ y2 = float(input('Enter y2: '))
 
 if x2 - x1 == 0:
     print('The slope is undefined')
+    print('The equation of the line is x=', x1)
 else: 
-    print('The slope is = (y2 - y1)/(x2 - x1)
+    print('The slope is ', (y2 - y1)/(x2 - x1))
